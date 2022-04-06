@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 2 feature docker file file
+=======
+# 2. feature docker
+>>>>>>> f13
 HIER NEUER CODE
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
