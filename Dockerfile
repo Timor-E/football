@@ -1,9 +1,4 @@
 ###4444444
-vvv<<<<<<< HEAD
-# 2 feature docker file file
-vvvvvv=======
-# 2. feature docker
-vvvv>>>>>>> f13
 HIER NEUER CODE
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
